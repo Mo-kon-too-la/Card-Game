@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="CardGame.Client/CardGame.Client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="CardGame.Infrastructure/CardGame.Infrastructure.csproj" />
+  <Project Path="CardGame.Server/CardGame.Server.csproj" />
+  <Project Path="CardGame.Tests/CardGame.Tests.csproj" />
+</Solution>
